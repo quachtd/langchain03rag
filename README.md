@@ -19,6 +19,6 @@ OPENAI_API_KEY='your key here'
 chainlit run chatbot2_toolscalling_chatlit.py -w
 
 ### Try prompts
-1. What is Task Decomposition?\
-2. Can you look up some common ways of doing it?\
+1. What is Task Decomposition?
+2. Can you look up some common ways of doing it?
 3. what is "it" here?
